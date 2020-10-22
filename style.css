@@ -1,0 +1,45 @@
+#firstColumn {
+  height: 400px;
+  background-color: rgb(39, 172, 39);
+  color: white;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+#secondColumn {
+  background-color: rgb(18, 119, 201);
+  color: white;
+  display: flex;
+}
+
+#thirdColumn {
+  background-color: yellow;
+  height: 400px;
+  text-align: center;
+}
+.first {
+  background-color: lightyellow;
+  height: 133.33px;
+  text-align: center;
+  align-items: center;
+}
+.second {
+  background-color: rgba(235, 235, 102, 0.479);
+  height: 133.33px;
+  display: flex;
+  align-items: center;
+}
+.third {
+  background-color: yellow;
+  height: 133.33px;
+  display: flex;
+  align-items: center;
+}
+
+.card {
+  text-align: center;
+}
+.card-footer {
+  text-align: right;
+}
